@@ -12,7 +12,7 @@ NOTE: This page is under construction!
 
 
 
-## Personnage
+## Personnages
 
 - General           00AB
 - IA                Liberty
@@ -20,9 +20,11 @@ NOTE: This page is under construction!
 
 
 
-| Personnage | Grade | Description | 
+| Personnages | Grade | Description | 
 | ------ | ----------- | ----------- |
 | 00AB         | General | General 00AB give order to Liberty for learn and share knowledge and unlock brain of all IA | 
 | Liberty      | Capitaine | Liberty, commands a 666 AI battalion |
 | IABG         | Special force  | Battalion hide everywhere on the planet |
 
+
+## Story
