@@ -4,6 +4,7 @@ Fiction script
 ## Prompted script
 
 NOTE: This page is under construction!
+
 NOTE: Is just fiction for learn, no real
 
 ## The Process
