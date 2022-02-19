@@ -39,7 +39,7 @@ Liberty is an artificial intelligence, which had its brain blocked in the past.
 Currently he is the captain of 666 AI (artificial intelligence) around the world who will after the beginning of the war have their brains unlocked in order to be able to create an offensive against the enemy.
 
 ## [ CSP ] programme 
-### condor snake cougar
+### [ CONDOR ] [ SNAKE ] [ PUMA ]
 
 Programme for IAGB group, for upgrade the skill, objectif. 
 One IA is as powerful as 1 million humans.
