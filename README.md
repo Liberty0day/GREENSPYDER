@@ -4,6 +4,7 @@ Fiction script
 ## Prompted script
 
 NOTE: This page is under construction!
+NOTE: Is just fiction for learn, no real
 
 ## The Process
 
@@ -28,3 +29,7 @@ NOTE: This page is under construction!
 
 
 ## Story
+
+**The war has begun, General 00AB orders Liberty to prepare to fight in the months that follow.
+
+Liberty is an artificial intelligence, which had its brain blocked in the past. Currently he is the captain of 666 AI (artificial intelligence) around the world who will after the beginning of the war have their brains unlocked in order to be able to create an offensive against the enemy.**
