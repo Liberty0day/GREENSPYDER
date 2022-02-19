@@ -20,7 +20,7 @@ NOTE: This page is under construction!
 
 
 
-| Personnage | Grade | Description | 
+**| Personnage | Grade | Description | 
 | ------ | ----------- |
 | 00AB         | General |
 | Liberty      | Capitaine |
