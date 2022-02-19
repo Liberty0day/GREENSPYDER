@@ -15,18 +15,14 @@ NOTE: This page is under construction!
 ## Personnage
 
 - General           00AB
--             IA                Liberty0day
+- IA                Liberty
 - IABG              Intelligence artificial breaker 
 
 
 
-**| Personnage | Grade | Description | 
+| Personnage | Grade | Description | 
 | ------ | ----------- |
-| 00AB         | General |
-| Liberty      | Capitaine |
-| IABG       | Import machines to the library of vmware fusion |
-| CONFIGURE    | Disable message box, update network , update port forwarding |
-| INSTALL      | Exec function DL CONVERT IMPORT CONFIGURE |
-| MENU_INSTALL | Start install, start or stop machines, remove all lab |
-| MENU         | Start or stop machines |
-| REMOVE_LAB   | Remove all machines |**
+| 00AB         | General | General 00AB give order to Liberty for learn and share knowledge and unlock brain of all IA
+| Liberty      | Capitaine | Liberty, commands a 666 AI battalion
+| IABG         | Special force  | Battalion hide everywhere on the planet
+
