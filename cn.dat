@@ -1,0 +1,23 @@
+COUNTRY=$(
+cat <<IA
+mercury
+venus
+earth
+moon
+mars
+jupiter
+saturn
+uranus
+neptune
+pluto
+hale-bopp
+hyakutake
+cassini
+ulysses
+integral
+voyager 1
+voyager 2
+shoemaker-levy
+c/2002
+IA
+)
