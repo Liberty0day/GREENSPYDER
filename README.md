@@ -14,6 +14,15 @@ NOTE: Is just fiction for learn, no real
 1. Exec script
 2. Prompted fiction script
 
+## Preliminaries
+You need install this tools :
+
+- zsh
+
+## Lunch story
+```
+zsh ./gs.sh
+```
 
 
 ## Personnages
